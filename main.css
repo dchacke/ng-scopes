@@ -1,0 +1,10 @@
+.ng-scope {
+    border: 5px solid red;
+    opacity: .6;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.ng-scope .ng-scope {
+    width: 100%;
+    height: 100%;
+}
