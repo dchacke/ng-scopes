@@ -15,4 +15,4 @@ Usage
 Contribute
 ==========
 
-Still [looking](http://stackoverflow.com/questions/25707460/css-the-deeper-the-level-the-darker-the-color?noredirect=1#comment40184570_25707460) for a way to just change border colors instead so that the content of the elements is not affected, any help much appreciated :)
+Feel free to send a pull request!
