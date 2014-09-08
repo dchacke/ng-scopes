@@ -1,7 +1,7 @@
 ng-scopes
 =========
 
-Highlight nested angular scopes in the browser to see which elements fall into which scope. Support up to five levels deep.
+Highlight nested angular scopes in the browser to see which elements fall into which scope.
 
 ![Preview](http://oi62.tinypic.com/9i8bqq.jpg)
 
